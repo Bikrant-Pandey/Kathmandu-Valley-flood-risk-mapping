@@ -1,1 +1,2 @@
 # Kathmandu-Valley-flood-risk-mapping
+This project analyzes flood risk in Kathmandu Valley using elevation, slope, and distance from rivers in QGIS. A digital elevation model was used to derive slope and elevation, and river data was used to calculate distance from waterways. These factors were classified and combined to create a flood risk map. The results show that areas near rivers and low, flat regions are more prone to flooding, while higher and steeper areas are less at risk.
